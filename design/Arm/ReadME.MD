@@ -1,1 +1,2 @@
-The STL files of Arm are uploaded here. ALso design will be modified in upcoming times
+The present design of robotic arm is inspired from the open source robotic arms. The design files uploaded here can only used for the simulations purposes. The design of the arm can be modified for producing the prototypes. 
+Presently the files uploaded here are the step 214 formatted files. These files can be imported to any CAD software and MATLAB without any difficulties. Further quiries on design can be contacted to the shraavistakashyap@gmail.com
